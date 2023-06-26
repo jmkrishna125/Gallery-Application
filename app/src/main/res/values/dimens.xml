@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gridview_margin">5dp</dimen>
+    <dimen name="title_margin">5dp</dimen>
+    <dimen name="title_textsize">16sp</dimen>
+    <dimen name="description_textsize">12sp</dimen>
+    <dimen name="horizontal_grid_space">5dp</dimen>
+    <dimen name="vertical_grid_space">5dp</dimen>
+    <dimen name="grid_column_width">90dp</dimen>
+    <dimen name="viewpager_margin_start">10dp</dimen>
+    <dimen name="viewpager_margin_top">10dp</dimen>
+    <dimen name="viewpager_margin_end">10dp</dimen>
+    <dimen name="viewpager_margin_bottom">10dp</dimen>
+    <dimen name="grid_layout_margin">10dp</dimen>
+    <dimen name="grid_item_width">130dp</dimen>
+    <dimen name="grid_item_height">130dp</dimen>
+    <dimen name="image_detail_layout_height">0dp</dimen>
+    <dimen name="full_image_height_percent">0.55</dimen>
+    <dimen name="description_marginTop">15dp</dimen>
+
+
+
+
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Gallery_Grid_View">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:horizontalSpacing">@dimen/horizontal_grid_space</item>
+        <item name="android:verticalSpacing">@dimen/vertical_grid_space</item>
+        <item name="android:layout_margin">@dimen/gridview_margin</item>
+        <item name="android:columnWidth">@dimen/grid_column_width</item>
+    </style>
+
+    <style name="Full_Screen_Viewpager">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_marginStart">@dimen/viewpager_margin_start</item>
+        <item name="android:layout_marginTop">@dimen/viewpager_margin_top</item>
+        <item name="android:layout_marginEnd">@dimen/viewpager_margin_end</item>
+        <item name="android:layout_marginBottom">@dimen/viewpager_margin_bottom</item>
+    </style>
+
+    <style name="image_detail_view">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/image_detail_layout_height</item>
+        <item name="layout_constraintHeight_percent">@dimen/full_image_height_percent</item>
+    </style>
+
+    <style name="image_title">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="layout_constraintHeight_percent">@dimen/full_image_height_percent</item>
+        <item name="android:layout_margin">@dimen/title_margin</item>
+        <item name="android:textSize">@dimen/title_textsize</item>
+    </style>
+
+    <style name="image_description">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/description_textsize</item>
+        <item name="android:layout_marginTop">@dimen/description_marginTop</item>
+    </style>
+
+</resources>
